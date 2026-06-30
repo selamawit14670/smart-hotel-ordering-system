@@ -1,0 +1,6 @@
+{
+  "name": "Dire Hotel Restaurant Menu",
+  "description": "A premium mobile-first QR code dining menu for Dire Hotel Restaurant, featuring multi-language support (English, Amharic, Oromo), search, and cart functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
